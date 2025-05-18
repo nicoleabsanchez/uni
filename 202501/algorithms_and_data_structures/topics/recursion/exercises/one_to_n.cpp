@@ -1,5 +1,5 @@
 //Desarrollar un programa que utilice una función recursiva, donde se debe ingresar un número para mostrar los números primos, 
-// cumplir con el siguiente requisito. El número debe ser positivo y menor a 1000.
+//cumplir con el siguiente requisito. El número debe ser positivo y menor a 1000.
 
 #include <iostream>
 using namespace std;
